@@ -1,0 +1,26 @@
+{
+  "settings": {
+    "path": "@PROJECT_PATH@",
+    "name": "Site-04-24_1635",
+    "screenshot": "screenshot.png",
+    "versionFirst": "4.10.3",
+    "siteFonts": [],
+    "theme": {},
+    "currentPage": "index.html",
+    "versionPublish": "4.10.3",
+    "uniqCompNum": 0
+  },
+  "pages": {
+    "index.html": {
+      "settings": {
+        "main": true,
+        "title": "Home",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": []
+    }
+  }
+}
