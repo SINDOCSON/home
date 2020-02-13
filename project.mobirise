@@ -1,5 +1,9 @@
 {
   "settings": {
+<<<<<<< HEAD
+    "path": "@PROJECT_PATH@",
+    "name": "Site-10-02-2020",
+=======
     "name": "Site-04-24_1635",
     "currentPage": "page5.html",
     "theme": {
@@ -35,29 +39,28 @@
     "versionFirst": "4.7.1",
     "uniqCompNum": 40,
     "versionPublish": "4.10.3",
+>>>>>>> 7c014301a50b5b62c9d5a633cffe8b933892f9cb
     "screenshot": "screenshot.png",
-    "favicon": "",
-    "noImageResize": "true",
-    "google-analytics": "",
-    "siteFonts": [
-      {
-        "url": "https://fonts.googleapis.com/css?family=Roboto:100,100i,300,300i,400,400i,500,500i,700,700i,900,900i&amp;subset=cyrillic",
-        "name": "Roboto",
-        "css": "'Roboto', sans-serif"
-      }
-    ],
-    "сanonical-url": ""
+    "versionFirst": "4.10.3",
+    "siteFonts": [],
+    "theme": {},
+    "currentPage": "index.html",
+    "versionPublish": "4.10.3",
+    "uniqCompNum": 0
   },
   "pages": {
     "index.html": {
       "settings": {
         "main": true,
-        "title": "home",
+        "title": "Home",
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
       },
+<<<<<<< HEAD
+      "components": []
+=======
       "components": [
         {
           "_styles": {
@@ -1424,6 +1427,7 @@
           "_params": {}
         }
       ]
+>>>>>>> 7c014301a50b5b62c9d5a633cffe8b933892f9cb
     }
   }
 }
